@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Front End Development
 - 🌱 I’m currently learning Web Development
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I like to learn different ~ human ~ languagens and different cultures (long live globalization <3);
+- ⚡ Fun fact: I like to learn different ~ human ~ languagens and different cultures (long live globalization)
 
 <div align="center">
   <a href="https://github.com/gabrielategel">
