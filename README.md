@@ -1,6 +1,6 @@
 ### Hi there, welcome to my profile... Would you like a cup of coffee? ✌️☕
 
-- 🔭 I’m currently working on Front End Development
+- 🔭 I’m currently working on Full Stack Development
 - 🌱 I’m currently learning Web Development
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I like to learn different ~ human ~ languagens and different cultures (long live globalization)
